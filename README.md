@@ -11,3 +11,6 @@ Ejecutar el comando y generar el archivo requirements. ( Lee todos los archivos 
 Se ejecuta desde fuera del directorio.
 
 > pipreqs .\Streamlit\
+
+To Open ** Esqueleto App *** click here: 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://valtic.streamlit.app)
